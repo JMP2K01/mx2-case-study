@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1440 980' role='img' aria-labelledby='title desc'>
+  <title id='title'>Mx2 personal operating system map</title>
+  <desc id='desc'>Mx2 experiences, continuity core, action layer, local foundation and replaceable AI engines.</desc>
+  <defs>
+    <linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'>
+      <stop offset='0' stop-color='#05070b'/>
+      <stop offset='1' stop-color='#0d1020'/>
+    </linearGradient>
+    <linearGradient id='core' x1='0' y1='0' x2='1' y2='1'>
+      <stop offset='0' stop-color='#7c5cff' stop-opacity='.20'/>
+      <stop offset='1' stop-color='#22d3ee' stop-opacity='.07'/>
+    </linearGradient>
+    <marker id='arrow' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='7' markerHeight='7' orient='auto-start-reverse'>
+      <path d='M0 0 10 5 0 10Z' fill='#7c5cff'/>
+    </marker>
+    <style>
+      .eyebrow{fill:#a9b1c3;font:600 16px ui-monospace,SFMono-Regular,Consolas,monospace;letter-spacing:3px}
+      .headline{fill:#f8fafc;font:700 44px Inter,ui-sans-serif,system-ui,sans-serif}
+      .subtitle{fill:#9da6ba;font:400 19px Inter,ui-sans-serif,system-ui,sans-serif}
+      .layer{fill:#8f99ad;font:700 13px Inter,ui-sans-serif,system-ui,sans-serif;letter-spacing:2px}
+      .title{fill:#f1f5f9;font:650 20px Inter,ui-sans-serif,system-ui,sans-serif}
+      .copy{fill:#9da6ba;font:400 14px Inter,ui-sans-serif,system-ui,sans-serif}
+      .chip{fill:#cbd5e1;font:500 13px Inter,ui-sans-serif,system-ui,sans-serif}
+      .engine{fill:#ddd8ff;font:650 16px Inter,ui-sans-serif,system-ui,sans-serif}
+      .tiny{fill:#7f899e;font:500 12px Inter,ui-sans-serif,system-ui,sans-serif;letter-spacing:1px}
+    </style>
+  </defs>
+  <rect width='1440' height='980' rx='28' fill='url(#bg)'/>
+  <circle cx='1120' cy='120' r='230' fill='#7c5cff' opacity='.06'/>
+  <circle cx='280' cy='760' r='260' fill='#22d3ee' opacity='.035'/>
+  <g transform='translate(72 62)'>
+    <rect width='52' height='52' rx='15' fill='#f8fafc'/>
+    <text x='26' y='34' text-anchor='middle' fill='#05070b' font-family='Inter,system-ui,sans-serif' font-size='18' font-weight='800'>Mx2</text>
+    <text x='76' y='18' class='eyebrow'>PERSONAL OPERATING SYSTEM</text>
+    <text x='76' y='54' class='headline'>One environment. Continuous context.</text>
+    <text x='76' y='86' class='subtitle'>Knowledge, work, files and AI designed as one local-first desktop product.</text>
+  </g>
+  <g transform='translate(72 188)'>
+    <text x='0' y='0' class='layer'>01 / EXPERIENCES</text>
+    <rect x='0' y='22' width='1010' height='102' rx='20' fill='#fff' fill-opacity='.035' stroke='#fff' stroke-opacity='.10'/>
+    <g transform='translate(24 49)'>
+      <rect width='104' height='48' rx='13' fill='#7c5cff' fill-opacity='.16' stroke='#7c5cff' stroke-opacity='.45'/>
+      <text x='52' y='30' text-anchor='middle' class='chip'>Home</text>
+      <rect x='119' width='118' height='48' rx='13' fill='#fff' fill-opacity='.04' stroke='#fff' stroke-opacity='.09'/>
+      <text x='178' y='30' text-anchor='middle' class='chip'>Assistant</text>
+      <rect x='252' width='106' height='48' rx='13' fill='#fff' fill-opacity='.04' stroke='#fff' stroke-opacity='.09'/>
+      <text x='305' y='30' text-anchor='middle' class='chip'>Studio</text>
+      <rect x='373' width='104' height='48' rx='13' fill='#fff' fill-opacity='.04' stroke='#fff' stroke-opacity='.09'/>
+      <text x='425' y='30' text-anchor='middle' class='chip'>Brain</text>
+      <rect x='492' width='92' height='48' rx='13' fill='#fff' fill-opacity='.04' stroke='#fff' stroke-opacity='.09'/>
+      <text x='538' y='30' text-anchor='middle' class='chip'>Mail</text>
+      <rect x='599' width='94' height='48' rx='13' fill='#fff' fill-opacity='.04' stroke='#fff' stroke-opacity='.09'/>
+      <text x='646' y='30' text-anchor='middle' class='chip'>Team</text>
+      <rect x='708' width='108' height='48' rx='13' fill='#fff' fill-opacity='.04' stroke='#fff' stroke-opacity='.09'/>
+      <text x='762' y='30' text-anchor='middle' class='chip'>Archive</text>
+      <rect x='831' width='107' height='48' rx='13' fill='#fff' fill-opacity='.04' stroke='#fff' stroke-opacity='.09'/>
+      <text x='884' y='30' text-anchor='middle' class='chip'>Usage</text>
+    </g>
+    <line x1='505' y1='124' x2='505' y2='159' stroke='#7c5cff' stroke-width='2' marker-end='url(#arrow)'/>
+
+    <text x='0' y='178' class='layer'>02 / CONTINUITY CORE</text>
+    <rect x='0' y='200' width='1010' height='206' rx='22' fill='url(#core)' stroke='#7c5cff' stroke-opacity='.42'/>
+    <text x='28' y='239' class='title'>Mx2 owns the continuity</text>
+    <text x='28' y='265' class='copy'>The product keeps identity, memory and context while tools and providers evolve.</text>
+    <g transform='translate(28 291)'>
+      <rect width='294' height='88' rx='16' fill='#05070b' fill-opacity='.54' stroke='#fff' stroke-opacity='.10'/>
+      <circle cx='26' cy='26' r='6' fill='#22d3ee'/>
+      <text x='43' y='32' class='title' font-size='17'>Knowledge engine</text>
+      <text x='20' y='61' class='copy'>Hybrid retrieval + source citations</text>
+      <rect x='316' width='294' height='88' rx='16' fill='#05070b' fill-opacity='.54' stroke='#fff' stroke-opacity='.10'/>
+      <circle cx='342' cy='26' r='6' fill='#7c5cff'/>
+      <text x='359' y='32' class='title' font-size='17'>Living memory</text>
+      <text x='336' y='61' class='copy'>Preferences, decisions and lessons</text>
+      <rect x='632' width='322' height='88' rx='16' fill='#05070b' fill-opacity='.54' stroke='#fff' stroke-opacity='.10'/>
+      <circle cx='658' cy='26' r='6' fill='#f59e0b'/>
+      <text x='675' y='32' class='title' font-size='17'>Local data</text>
+      <text x='652' y='61' class='copy'>Files, databases and protected vault</text>
+    </g>
+    <line x1='505' y1='406' x2='505' y2='441' stroke='#7c5cff' stroke-width='2' marker-end='url(#arrow)'/>
+  </g>
+  <g transform='translate(72 648)'>
+    <text x='0' y='0' class='layer'>03 / ACTION LAYER</text>
+    <g transform='translate(0 22)'>
+      <rect width='320' height='104' rx='20' fill='#fff' fill-opacity='.035' stroke='#fff' stroke-opacity='.10'/>
+      <text x='24' y='39' class='title'>Specialized agents</text>
+      <text x='24' y='67' class='copy'>Plan, delegate and synthesize</text>
+      <rect x='345' width='320' height='104' rx='20' fill='#fff' fill-opacity='.035' stroke='#fff' stroke-opacity='.10'/>
+      <text x='369' y='39' class='title'>MCP tools</text>
+      <text x='369' y='67' class='copy'>Act through explicit boundaries</text>
+      <rect x='690' width='320' height='104' rx='20' fill='#fff' fill-opacity='.035' stroke='#fff' stroke-opacity='.10'/>
+      <text x='714' y='39' class='title'>Automations</text>
+      <text x='714' y='67' class='copy'>Turn context into repeatable work</text>
+    </g>
+    <line x1='505' y1='126' x2='505' y2='161' stroke='#7c5cff' stroke-width='2' marker-end='url(#arrow)'/>
+  </g>
+
+  <g transform='translate(72 828)'>
+    <text x='0' y='0' class='layer'>04 / LOCAL FOUNDATION</text>
+    <rect x='0' y='22' width='1010' height='84' rx='20' fill='#fff' fill-opacity='.028' stroke='#fff' stroke-opacity='.09'/>
+    <text x='28' y='57' class='title' font-size='17'>Electron + React + TypeScript</text>
+    <text x='381' y='57' class='title' font-size='17'>SQLite + files + KDBX</text>
+    <text x='708' y='57' class='title' font-size='17'>WebSockets + typed IPC</text>
+    <text x='28' y='84' class='tiny'>NATIVE DESKTOP</text>
+    <text x='381' y='84' class='tiny'>USER-CONTROLLED DATA</text>
+    <text x='708' y='84' class='tiny'>BOUNDED CONNECTIONS</text>
+  </g>
+  <g transform='translate(1130 188)'>
+    <text x='0' y='0' class='layer'>REPLACEABLE ENGINES</text>
+    <rect x='0' y='22' width='238' height='648' rx='22' fill='#7c5cff' fill-opacity='.07' stroke='#7c5cff' stroke-opacity='.28'/>
+    <text x='24' y='69' class='title'>Models power Mx2.</text>
+    <text x='24' y='94' class='copy'>They do not define it.</text>
+    <g transform='translate(20 128)'>
+      <rect width='198' height='70' rx='16' fill='#7c5cff' fill-opacity='.17' stroke='#7c5cff' stroke-opacity='.46'/>
+      <text x='99' y='42' text-anchor='middle' class='engine'>Claude</text>
+      <rect y='86' width='198' height='70' rx='16' fill='#fff' fill-opacity='.035' stroke='#fff' stroke-opacity='.10'/>
+      <text x='99' y='128' text-anchor='middle' class='engine'>Codex</text>
+      <rect y='172' width='198' height='70' rx='16' fill='#fff' fill-opacity='.035' stroke='#fff' stroke-opacity='.10'/>
+      <text x='99' y='214' text-anchor='middle' class='engine'>Future engines</text>
+    </g>
+    <line x1='0' y1='296' x2='-48' y2='296' stroke='#7c5cff' stroke-width='2' marker-end='url(#arrow)'/>
+    <g transform='translate(20 474)'>
+      <text x='0' y='0' class='tiny'>DESIGN CONSTRAINTS</text>
+      <circle cx='7' cy='33' r='4' fill='#22d3ee'/>
+      <text x='21' y='38' class='copy'>Local-first</text>
+      <circle cx='7' cy='66' r='4' fill='#7c5cff'/>
+      <text x='21' y='71' class='copy'>Model-agnostic</text>
+      <circle cx='7' cy='99' r='4' fill='#f59e0b'/>
+      <text x='21' y='104' class='copy'>Tuned for 240 Hz</text>
+    </g>
+  </g>
+  <text x='1368' y='948' text-anchor='end' class='tiny'>DESIGNED AND BUILT BY JOAQUÍN / JMP2K01</text>
+</svg>
